@@ -1,0 +1,26 @@
+{
+  "name": "hello-js-se05-ep03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandiego/hello-js-se05-ep03.git"
+  },
+  "author": "fox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fernandiego/hello-js-se05-ep03/issues"
+  },
+  "homepage": "https://github.com/fernandiego/hello-js-se05-ep03#readme",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.12"
+  }
+}
